@@ -1,0 +1,11 @@
+.mch {
+  font-size: 20px;
+}
+.bg-danger {
+  background-color: #3548dc !important;
+}
+.btn-danger {
+  color: #fff;
+  background-color: #3548dc;
+  border-color: #3548dc;
+}
